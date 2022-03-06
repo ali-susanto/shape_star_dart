@@ -1,5 +1,5 @@
 # shape_star_dart
-Make a sand glass and diagonal numbers with darts
+Make a sand glass and diagonal numbers with dart.
 
 
 - output program.
