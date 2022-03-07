@@ -16,5 +16,6 @@ void numberDiagonal() {
 }
 
 void main(List<String> args) {
+  //call function
   numberDiagonal();
 }
